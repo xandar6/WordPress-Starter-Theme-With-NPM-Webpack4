@@ -1,0 +1,29 @@
+{
+  "name": "henrystea",
+  "version": "1.0.0",
+  "description": "Henry's Theme From Scratch",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xandar6/henrystea.git"
+  },
+  "author": "sahanfreelancing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xandar6/henrystea/issues"
+  },
+  "homepage": "https://github.com/xandar6/henrystea#readme",
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^4.3.0",
+    "mini-css-extract-plugin": "^0.11.1",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^10.0.2",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}

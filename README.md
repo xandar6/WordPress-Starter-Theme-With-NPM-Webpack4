@@ -1,0 +1,1 @@
+This is a basic WordPress theme setup with NPM, Webpack4 with SASS
